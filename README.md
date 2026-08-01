@@ -58,20 +58,16 @@
 
 Это зависит от юрисдикции, цели и методов. Взлом, преследование, угрозы и публикация персональных данных могут повлечь ответственность.
 
-### Как проверить свой цифровой след?
-
-Ищите собственные username, фотографии, старые объявления и публичные профили. Исправляйте настройки и удаляйте ненужные связки.
-
-## Полезные материалы
-
-- [Шерлок бот в Telegram](https://github.com/SherlokBotOsint/sherlok-bot-telegram)
-- [Бот для пробива](https://github.com/SherlokBotOsint/bot-dlya-probiva)
-- [OSINT-боты в Telegram](https://github.com/SherlokBotOsint/osint-boty-telegram)
-
-## Итог
-
-Лучшее применение инструментов поиска в этой теме — самозащита, проверка рисков и документирование публичных фактов. [Перейти на официальный сайт Шерлок](https://sherlokk.bot).
-
 ---
 
-Материал посвящён законному поиску по открытым источникам. Не используйте OSINT для преследования, угроз, взлома, покупки утечек или публикации чужих персональных данных.
+<!-- related:start -->
+## Связанные статьи
+
+- [Боты для деанона: возможности и риски](https://github.com/SherlokBotOsint/boty-dlya-deanona)
+- [Бесплатный пробив по открытым источникам](https://github.com/SherlokBotOsint/besplatnyy-probiv)
+- [Поиск по username](https://github.com/SherlokBotOsint/poisk-po-username)
+- [Поиск по фото в OSINT](https://github.com/SherlokBotOsint/poisk-po-foto-osint)
+- [Все статьи об OSINT и поиске информации](https://github.com/SherlokBotOsint/osint-poisk-informatsii)
+
+Для комплексной проверки используйте [официальный сайт Sherlock](https://sherlokk.bot/).
+<!-- related:end -->
