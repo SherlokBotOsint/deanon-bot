@@ -69,5 +69,6 @@
 - [Поиск по фото в OSINT](https://github.com/SherlokBotOsint/poisk-po-foto-osint)
 - [Все статьи об OSINT и поиске информации](https://github.com/SherlokBotOsint/osint-poisk-informatsii)
 
-Для комплексной проверки используйте [официальный сайт Sherlock](https://sherlokk.bot/).
+Для комплексной проверки используйте [Запустить бота](https://sherlokk.bot/).
 <!-- related:end -->
+
